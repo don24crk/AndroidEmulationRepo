@@ -1,0 +1,2 @@
+retroarch 64 bit full package this file is to big for the repo i give you the downloadlink here:
+https://retroarch-aarch64.de.uptodown.com/android/download
